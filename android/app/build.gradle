@@ -6,11 +6,11 @@ plugins {
 }
 
 android {
-    namespace 'com.example.gameservers'
+    namespace 'com.shimi.gameservers'
     compileSdk 33
 
     defaultConfig {
-        applicationId "com.example.gameservers"
+        applicationId "com.shimi.gameservers"
         minSdk 21
         targetSdk 33
         versionCode 1
